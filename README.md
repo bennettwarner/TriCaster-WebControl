@@ -1,4 +1,4 @@
-##TriCaster QuadSwitcher
+# TriCaster QuadSwitcher
 
 This is a ~~rough~~ simple HTML/Javascript Page I built in a couple hours to play around with the control API in the Advanced Edition of NewTek TriCaster. The TriCaster is a video switcher that lets you mix cameras, videos, graphics and many other feeds into a video that can be recorded and streamed. This page allows you to switch 4 cameras by clicking on the preview of the one you want to take. Also included a red tally box around the currently selected source. Popup asks for IP or hostname of unit. Can by hard coded by setting the cTricaster variable
 
