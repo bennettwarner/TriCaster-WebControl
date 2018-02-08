@@ -4,7 +4,7 @@ This is a ~~rough~~ simple HTML/Javascript Page I built in a couple hours to pla
 
 ## Installation
 
-Probably need to host it off a webserver rather than just doubleclicking it because it requires jQuery and starting that way throws a cross site scripting error.
+This can either be run off a local web server or via a TriCaster's built in web server.
 
 ## Tests
 
@@ -12,7 +12,7 @@ Example set up at: https://bennettwarner.github.io/tricasterquadswitch/control.h
 
 ## Contributors
 
-If anyone wants to contribe please feel free. I probably won't do any further development on this.
+If anyone wants to contribute please feel free. I probably won't do any further development on this.
 
 ## License
 
