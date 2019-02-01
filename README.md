@@ -10,7 +10,7 @@ This can either be run off a local web server or via a TriCaster's built in web 
 
 ## Tests
 
-Example set up at: https://bennettwarner.github.io/tricasterquadswitch/control.html
+Example set up at: https://bennettwarner.github.io/TriCaster-WebControl/control.html
 
 ## Contributors
 
